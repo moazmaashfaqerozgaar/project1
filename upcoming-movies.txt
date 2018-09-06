@@ -1,0 +1,86 @@
+<html>
+<head>
+<title> 
+ upcomingmovies </title>
+</head>
+<body style="background-color:offwhite ;">
+<body background="Fractal.png">
+<h1> <center> <h1 style="background-color:Tomato;"> Upcoming Movies </center>
+<h2> <center> <img src="popcorn-movie-party-entertainment.jpg" width="250" height="150"> </center> </h2>
+ 
+<h1> <center> <h1 style="background-color:MediumSeaGreen;"> You will find Top Hindi Movies here </center> 
+</h1>
+<div class="row">
+<div class="column">
+<div class="container">
+<img src="september 7 2018.jpg" style="width:30%"> 
+<img src="paltan.jpg" style=width:30%> 
+<img src="bati gul miter chalu.jpg" style=width:30%>
+<img src="sui dhga.jpg" style=width:30%>
+<img src="Patakha.jpg" style=width:30%>
+<img src="lov-15.jpg" style=width:30%>
+<img src="maxresdefault (1).jpg" style=width:30%>
+<img src="15SM-P3-CREDITGJG4AQU1B3jpgjpg.jpg" style=width:30%> 
+<br> </br>
+<br>
+</br>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+<h2>relaesing movies</h2>
+<table>
+<tr>
+<th>Film</th>
+<th>Releasing Date</th>
+<th>genre</th>
+</tr>
+ <tr>
+    <td>manmarziyan</td>
+    <td>7 september 2018</td>
+    <td>Romantic comedy</td>
+  </tr>
+  <tr>
+    <td>Paltan</td>
+    <td>7 september 2018</td>
+    <td>war drama</td>
+  </tr>
+  <tr>
+    <td>Sui Dhaaga</td>
+    <td>28 september 2018</td>
+    <td>comedy drama</td>
+  </tr>
+  <tr>
+    <td>Batti Gul Meter Chalu</td>
+    <td>21 september 2018</td>
+    <td>drama film</td>
+  </tr>
+  <tr>
+    <td>loveratri</td>
+    <td>5 october 2018</td>
+    <td>musical drama </td>
+  </tr>
+  <tr>
+    <td>2.0</td>
+    <td>29 november 2018</td>
+    <td>sci-fi</td>
+  </tr>
+</table>
+ 
+
+
+
+</body>
+</html>
